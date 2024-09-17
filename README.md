@@ -16,4 +16,9 @@ This repository contains:
 
 ## Link to the Paper
 
-For a detailed explanation of our approach and findings, please refer to our paper: [Leveraging Large Language Models for Building Interpretable Rule-Based Data-to-Text Systems](#).
+For a detailed explanation of our approach and findings, please refer to our paper: [Leveraging Large Language Models for Building Interpretable Rule-Based Data-to-Text Systems](https://aclanthology.org/2024.inlg-main.48/).
+
+## Acknowledgements
+This work was co-funded by the European Union (ERC, NG-NLG, 101039303).
+
+<img width="421" alt="LOGO_ERC-FLAG_FP" src="https://github.com/user-attachments/assets/cd7b961b-6560-4138-8070-a62c3045e385">
